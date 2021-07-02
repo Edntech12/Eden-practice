@@ -1,0 +1,13 @@
+body{
+    background: white;
+}
+
+.box {
+    background:royalblue;
+    padding: 25px;
+    border: solid 2px blue;
+    margin: 10px;
+    color: black;
+    width: 75;
+    height: 150;
+}
